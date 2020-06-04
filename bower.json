@@ -1,13 +1,7 @@
 {
   "name": "pool",
-  "dependencies": {
-    "ember": "lts-2-18"
-  },
   "devDependencies": {
     "bootstrap": "~3.3.7",
     "font-awesome": "fontawesome#~4.7.0"
-  },
-  "resolutions": {
-    "ember": "lts-2-18"
   }
 }
